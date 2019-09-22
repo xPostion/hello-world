@@ -1,3 +1,4 @@
 # hello-world
 This is my first repository on GitHub
-True
+
+I'm an IT manager who is studing Git versionaning system.
